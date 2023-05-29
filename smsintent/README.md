@@ -41,6 +41,11 @@ Registeration Number :
 
 ![Screenshot (220)](https://github.com/MaheshS03/Mobile-Application-Development/assets/128498431/33e4b1bb-f4b1-4c50-a4fc-6ec1f9927fed)
 
+![ex6 1](https://github.com/MaheshS03/Mobile-Application-Development/assets/128498431/a7fc3a97-2157-4429-b86e-73d1968f2cf4)
+
+![ex6 2](https://github.com/MaheshS03/Mobile-Application-Development/assets/128498431/6749f41d-d429-4122-8197-bbfd5a01b17c)
+
+
 
 ## RESULT
 Thus a Simple Android Application create and design an android application Send SMS using Intent using Android Studio is developed and executed successfully.
